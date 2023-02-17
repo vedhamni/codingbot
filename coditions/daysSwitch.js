@@ -1,5 +1,6 @@
 //find wednesday using switch case
-let dayName, day = 8;
+let dayName, day = 4; //declaring day variable that is having dayName and day number
+
 
 
 switch (day) {
